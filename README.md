@@ -19,4 +19,4 @@ Languages:  JavaScript · C++ · HTML · CSS
 Tools:      VSCode · Git · GitHub · Figma
 Interests:  Web Dev · Game Dev · Anime
 ```
-![coding](https://i.pinimg.com/1200x/bc/9e/79/bc9e79e0dbbcf04a1bfb681756d57733.jpg)
+![coding](https://ih1.redbubble.net/image.5090038845.1125/raf,360x360,075,t,fafafa:ca443f4786.u9.jpg)
