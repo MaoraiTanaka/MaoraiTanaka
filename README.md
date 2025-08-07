@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🌸 Maorai Tanaka 🌸
 
-<!--
-**MaoraiTanaka/MaoraiTanaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🧁 she/her | 💻 loves coding | 🌌 anime & Terraria fan
 
-Here are some ideas to get you started:
+![Maorai's banner](https://i.imgur.com/E0kKx5F.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🦋 About Me
+Hi there! I'm **Maorai Tanaka**, a curious soul who loves diving into anime worlds, building in Terraria, and occasionally hacking on fun code projects!
+
+- 🧠 Self-taught coder
+- 🎮 Terraria modder & explorer
+- 🌸 Huge anime fan (favorites: Your Name, Demon Slayer, Spy x Family)
+- 📚 Currently learning: **JavaScript**, **HTML/CSS**, and **Game Dev**
+- ☁️ Dreaming of building my own anime-themed app someday!
+
+---
+
+## 💻 Tech Stack
+
+```bash
+Languages:  JavaScript · Python · HTML · CSS
+Tools:      VSCode · Git · GitHub · Figma
+Interests:  Web Dev · Game Dev · Browser Games
